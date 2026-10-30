@@ -1,0 +1,6 @@
+LocationID,FacilityName,Capacity
+L001,Main Warehouse,100000
+L002,North Wing Pharmacy,15000
+L003,South Wing Pharmacy,12000
+L004,Emergency Dept Storage,5000
+L005,Outpatient Clinic,8000
